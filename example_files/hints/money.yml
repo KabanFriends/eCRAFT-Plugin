@@ -1,0 +1,8 @@
+title: Money
+automessage: "You can check your balance by typing &#ffeb69/bal&f!"
+descriptions:
+    - "To check your current balance, type &a/bal&f in chat."
+    - "If you are playing this server on Minecraft: Java Edition, you can also check it in the player list. &7(hold Tab key)"
+    - ""
+    - "To send money to other players, use &a/money pay <player> <amount>&f."
+    

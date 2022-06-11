@@ -1,0 +1,11 @@
+title: Teleportation
+automessage: "This server offers you various teleportation commands, such as /tpa, /home or /warp!"
+descriptions:
+    - "&a&nTeleportation Commands:"
+    - "&#ffe375/spawn&7 - &rTeleports you to the server spawn."
+    - "&#ffe375/sethome&7 - &rSets your home location. Use with /home."
+    - "&#ffe375/home&7 - &rTeleports you to your home location."
+    - "&#ffe375/setwarp <name>&7 - &rCreates a public warp point with the specified name."
+    - "&#ffe375/warps&7 - &rLists all available warp points."
+    - "&#ffe375/warp <name>&7 - &rTeleports to a specified warp point."
+    - "&#ffe375/tpa <player>&7 - &rRequests to teleport to the specified player."

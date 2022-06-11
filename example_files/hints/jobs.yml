@@ -1,0 +1,8 @@
+title: Jobs
+automessage: "Want to earn money? Get in the jobs of your choice with &d/jobs join&r!"
+descriptions:
+    - "Type &e/jobs join&r in the chat to enter jobs! You can join up to &63&r jobs."
+    - "If you want to leave from a job, type &e/jobs leave&6 <job name>&r."
+    - ""
+    - "Each job has experience points and levels. Check your current stats with &e/jobs stats&f!"
+    - "You can also use &e/jobs top&6 <job name>&r to check the job leaderboard!"

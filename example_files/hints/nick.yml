@@ -1,0 +1,8 @@
+title: Nicknames
+automessage: "You can use &b/nick <nickname>&r to customize your displayed name!"
+descriptions:
+    - "&b/nick <nickname>&r allows you to change your displayed username on the player list and the chat."
+    - "Typing &b/nick&r alone will remove your nickname and revert the displayed username."
+    - ""
+    - "Players with nicknames will have the &7~&r symbol next to the username."
+    - "If you want to check the actual usernames of other players, type &a/realname&r to display the original names on the player list.&7 (Hold TAB key)"

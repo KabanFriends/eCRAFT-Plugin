@@ -1,0 +1,9 @@
+title: Category Title
+automessage: "Learn how to make a help category!"
+descriptions:
+    - "Line 1"
+    - "Line 2"
+    - "Line 3"
+    - ""
+    - "&aColor code works as well!"
+    - "&#c0ffeeYou can also use HEX color codes!"

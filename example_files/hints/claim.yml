@@ -1,0 +1,11 @@
+title: Area Claiming
+automessage: "Use a &eGolden Shovel&r to claim the area of your house to prevent it from being griefed!"
+descriptions:
+    - "Right click a block with your &eGolden Shovel&r to set corners for your area to claim."
+    - "After setting the two corners, you now own that area and no one else can modify it."
+    - ""
+    - "When claiming an area, it costs &6$0.25&r per landspace. &7(1 landspace = an area of same X and Z coordinates)"
+    - "You have &e10,000&r landspaces by default, and you gain &e1,000&r more per hour playing on the server."
+    - ""
+    - "Type &a/trust &2<player>&r in your chat to give the player permissions to modify your area."
+    - "If you want to unclaim your area, stand in the area and type &a/unclaim&r."

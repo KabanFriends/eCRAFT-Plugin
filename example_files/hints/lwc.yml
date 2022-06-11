@@ -1,0 +1,11 @@
+title: LWC Protection
+automessage: "Blocks such as chests and furnaces are automatically protected! Manage protections using &bLWC&r commands!"
+descriptions:
+    - "Blocks like chests, furnaces, barrels you place are automatically protected."
+    - "You can modify how these protections work by using &b/lwc flag&r."
+    - "&7Example:&3 /lwc flag redstone off"
+    - ""
+    - "To allow your friends to access your chests, type &b/cmodify &3<username>&r."
+    - "&b/cmodify &c-&3<username>&r will remove the permission of that player."
+    -
+    - "To remove the protection entirely, type &b/unlock&r."

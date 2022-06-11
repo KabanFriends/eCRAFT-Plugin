@@ -1,0 +1,7 @@
+title: Item Shops
+automessage: "You can create a &#ed984eChest Shop&r to sell or buy items!"
+descriptions:
+    - "To create a &#ed984eChest Shop&r, hold the item you want to sell to others/buy from others, and &3left-click a chest while sneaking&f!"
+    - "Type the price of that item in your chat, and you now have a brand new chest shop!"
+    - ""
+    - "Type &e/qs buy&r to change the shop to &dBUY&f mode!&7 (You can buy the item from other players)"

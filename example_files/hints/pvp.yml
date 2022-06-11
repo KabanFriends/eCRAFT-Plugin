@@ -1,0 +1,7 @@
+title: PVP
+automessage: "Type &a/pvp&r in chat to enable combats with other players!"
+descriptions:
+    - "You  can use &e/pvp&r to toggle whether you can fight with other players or not."
+    - "To fight with other players, the opponent also needs to have combats enabled."
+    - ""
+    - "&bNote:&r Once you are in a combat, you cannot turn off combats for a short time."

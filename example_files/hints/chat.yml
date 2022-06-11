@@ -1,0 +1,10 @@
+title: Chat Channels
+automessage: "Want to create a private space to talk with other players? Use &#33adffChat Channels&r!"
+descriptions:
+    - "You can create a &#33adffChat Channel&r to talk privately to a specific set of people!"
+    - "To create a new chat channel, type &e/ch join &6<channel name>&r in your chat."
+    - "After creating one, you have to &nenter the same command once again&r to join that channel."
+    - ""
+    - "If you want to leave from a chat channel, type &e/ch leave&6 <channel name>&r."
+    - "Channel owners can perform various moderations to their channels. Type &e/ch help mod&r for more information."
+    - "&bNote: &rA chat channel is deleted after everyone leaves from it!"

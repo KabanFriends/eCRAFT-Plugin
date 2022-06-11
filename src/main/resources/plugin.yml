@@ -1,0 +1,85 @@
+name: eCRAFT
+version: '1.3'
+main: io.github.kabanfriends.ecraft.ECraft
+api-version: 1.18
+load: POSTWORLD
+authors: [ KabanFriends ]
+depend: [ floodgate, NoteBlockAPI, WorldGuard, Vault ]
+description: Various commands and events for eCRAFT 2.0 server
+
+commands:
+  ecreload:
+    description: Reloads eCRAFT core plugin
+    usage: ecreload
+    permission: ecraft.admin.ecreload
+  ecdebug:
+    description: Sends debug information
+    usage: ecdebug
+    permission: ecraft.admin.ecdebug
+  playsong:
+    description: Plays a NBS file from plugins/eCRAFT/songs/
+    usage: playsong <file>
+    permission: ecraft.admin.playsong
+  stopsong:
+    description: Stops the currently playing song
+    usage: stopsong
+    permission: ecraft.admin.stopsong
+  pvp:
+    description: Toggles combat for the player
+    usage: pvp
+  sethome:
+    description: Sets home location
+    usage: sethome
+  home:
+    description: Teleports to your home location
+    usage: home
+  setwarp:
+    description: Creates a new warp
+    usage: setwarp <name>
+    aliases: createwarp
+  delwarp:
+    description: Deletes the specified warp
+    usage: delwarp <name>
+    aliases: remwarp
+  warp:
+    description: Views a list of warps, or teleport to the specified warp
+    usage: warp [<name>]
+    aliases: warps
+  tpa:
+    description: Sends a teleport request
+    usage: tpa <target>
+  accept:
+    descriptions: Accepts a teleport request
+    usage: accept
+  deny:
+    description: Denies a teleport request
+    usage: deny
+  help:
+    description: Shows help documentation
+    usage: help [<category>]
+    aliases: hint
+  warpinfo:
+    description: Shows warp information
+    usage: warpinfo <warp>
+    permission: ecraft.mod.warpinfo
+  spawn:
+    description: Teleports to server spawn
+    usage: spawn
+  agree:
+    description: Agrees to server rules
+    usage: agree
+  disagree:
+    description: Forces someone to disagree server rules
+    usage: disagree <player>
+    permission: ecraft.mod.disagree
+  nickname:
+    description: Sets your own nickname
+    usage: nickname [<nickname>]
+    aliases: nick
+  realname:
+    description: Displays actual usernames in the player list
+    usage: realname
+  setnickname:
+    description: Sets the nick name of someone else
+    usage: setnickname <player> [<nickname>]
+    permission: ecraft.mod.setnickname
